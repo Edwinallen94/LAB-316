@@ -38,3 +38,5 @@ menuLinks.forEach((link) => {
 
   topMenuEL.appendChild(newLink);
 });
+
+//part 2
